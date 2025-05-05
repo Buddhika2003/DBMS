@@ -1,0 +1,10 @@
+Nimal,Perera,"10A, Galle Road, Colombo",M,1990-05-15,Computer Science,011-2345678
+Kamala,Silva,"25, Kandy Road, Gampaha",F,1992-09-20,IT,033-4567890
+Sunil,Fernando,"30, Negombo Road, Negombo",M,1988-03-10,IT,031-3456789
+Anula,Rajapakse,"5B, Matara Street, Matara",F,1995-12-03,Computer Science,041-5678901
+Malith,Jayawardena,"15, Kurunegala Road, Kurunegala",M,1993-07-18,IT,037-6789012
+Sujatha,Bandara,"20, Jaffna Road, Jaffna",F,1991-11-25,Computer Science,021-7890123
+Chamara,Rathnayake,"35, Ratnapura Road, Ratnapura",M,1994-08-12,IT,045-8901234
+Lakmini,Wijesinghe,"8C, Badulla Street, Badulla",F,1989-06-30,Computer Science,055-9012345
+Upul,Dissanayake,"40, Ampara Road, Ampara",M,1996-02-14,Computer Science,063-0123456
+Tharanga,Perumal,"55, Polonnaruwa Road, Polonnaruwa",F,1997-04-05,IT,027-1234567
